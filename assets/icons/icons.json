@@ -1,0 +1,16 @@
+{
+ "source": {
+  "kind": "file",
+  "ref": "assets/img/candys-friends-paw-logo.svg"
+ },
+ "source_md5": "088d0d5335e718f1222725907303caaa",
+ "version": "9f24f172",
+ "tile": "#1C1B20",
+ "crop": null,
+ "header": [
+  "inline",
+  "index.html",
+  "ff367ba63529e6537f45bf4f60dd95e5"
+ ],
+ "made": "2026-10-26"
+}
